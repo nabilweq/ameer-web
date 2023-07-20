@@ -513,7 +513,7 @@ h6 { font-size:1.80rem; line-height:2.5rem; }
     05. Custom
 ====================================== */
 
-section { padding: 142px 0; overflow: hidden; }
+section { padding: 155px 0; overflow: hidden; }
 section.big-section { padding:160px 0; }
 section.extra-big-section { padding:200px 0; }
 section.half-section { padding:80px 0; }
@@ -1563,7 +1563,7 @@ input.btn:focus { border-width: 2px; }
 .padding-ten-top { padding-top:10%; }
 .padding-eleven-top { padding-top:11%; }
 .padding-twelve-top { padding-top:12%; }
-.padding-thirteen-top { padding-top:13%; }
+.padding-thirteen-top { padding-top:0%; }
 .padding-fourteen-top { padding-top:14%; }
 .padding-fifteen-top { padding-top:15%; }
 .padding-sixteen-top { padding-top:16%; }
