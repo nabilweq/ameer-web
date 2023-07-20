@@ -3239,7 +3239,7 @@ header .header-cart-icon .cart-count { position: absolute; top: -6px; right: -10
 
 /* dot pagination light */
 .swiper-pagination-dot.swiper-light-pagination .swiper-pagination-bullet { background:#e37b8c; border-color: #d9cdad; opacity: 0.5; }
-.swiper-pagination-dot.swiper-light-pagination .swiper-pagination-bullet-active { background:#fff; border-color: #fff; opacity: 1; }
+.swiper-pagination-dot.swiper-light-pagination .swiper-pagination-bullet-active { background: #e37b8c; border-color: #e37b8c; opacity: 1; }
 
 /* square pagination */
 .swiper-pagination-square .swiper-pagination-bullet { height:3px; width:30px; border-radius: 0;opacity: 0.3; cursor: pointer; }
